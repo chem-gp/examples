@@ -1,0 +1,6 @@
+place data trajectories in this folder
+
+You can download data:
+https://figshare.com/projects/fande-data/140660
+
+
